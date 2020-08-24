@@ -130,7 +130,7 @@ $(document).ready(function () {
 
     // HOME TYPED JS
     $(".element").typed({
-        strings: ["Nhan Huynh", "Web Designer"],
+        strings: ["Nhan Huynh", "Web Designer", "ahihi"],
         typeSpeed: 10,
         loop: true,
         backDelay: 2000
